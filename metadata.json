@@ -1,0 +1,9 @@
+{
+  "name": "OmniFarm Guardian",
+  "description": "A comprehensive livestock management tool featuring AI-powered health scanning, real-time metrics, and voice-assisted animal history.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
