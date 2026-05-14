@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">OmniFarm Guardian</string>
+    <string name="title_activity_main">OmniFarm Guardian</string>
+    <string name="package_name">com.omnifarm.guardian</string>
+    <string name="custom_url_scheme">com.omnifarm.guardian</string>
+</resources>
